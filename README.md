@@ -1,4 +1,4 @@
-- 👋 Hi, we are @omegawpvipteam. This Git will help us to test and have shared repositories.
+- 👋 Hi, we are @omegawpvipteam.
 - 📫 If you want to know more about us and contact us you can do it at omegacrmconsulting.com
 
 <!---
